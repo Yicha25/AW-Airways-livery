@@ -1,0 +1,74 @@
+{
+    "name": "AW Airways",
+    "color": "",
+    "bgcolor": "",
+    "aircrafts": {
+       
+
+        "2418": {
+            "name": "ATR 72-600",
+            "liveries": [
+            ],
+            "labels": [
+                "https://i.ibb.co/8n3TmTWh/AW72.png"
+            ]
+        },
+
+            ]
+        },
+
+   
+        "2871": {
+            "name": "Airbus a320neo",
+            "liveries": [
+            ],
+            "labels": [
+                "https://i.ibb.co/CpQRkZvr/AW32N.png",
+                "https://i.ibb.co/DfTF2yRK/AW32-Nretro.png",
+                "https://i.ibb.co/qFyQDcVF/AW32-N-starwars.png"
+              
+            ]
+        },
+  
+            ]
+        },
+
+        "24": {
+            "name": "Airbus a350-900",
+            "liveries": [
+            ],
+            "labels": [
+                "https://i.ibb.co/qL5DhgRS/AW350-Carbon-Fiber.png",
+                "https://i.ibb.co/HfY7zhsL/AW350.png"
+            ]
+        },
+
+        "25": {
+            "name": "Boeing b777-300ER",
+            "liveries": [
+            ],
+            "labels": [
+                "https://i.ibb.co/rKjhKQ0Z/AW777.png"
+            ]
+        },
+    
+        "2856": {
+            "name": "Airbus a330-200",
+            "liveries": [
+            ],
+            "labels": [
+                "https://i.ibb.co/d4zFBJT1/AW33F.png",
+                "https://i.ibb.co/zV5V576C/AW330.png"
+            ]
+        },
+   
+        "5551": {
+            "name": "Comac C919",
+            "liveries": [
+            ],
+            "labels": [
+                "https://i.ibb.co/NdkBDq2R/AW919.png"
+            ]
+        }
+    }
+}
